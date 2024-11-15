@@ -8,10 +8,6 @@ import fetch from 'node-fetch';
 
 const array = [{}];
 const narray = [{}];
-const anal = [{}];
-const russian = [{}];
-const rhoades = [{}];
-const latest=[{}];
 const mpop = [{}];
 const hollywood = [{}];
 
